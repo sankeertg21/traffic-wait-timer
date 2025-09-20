@@ -85,3 +85,15 @@ The application is fully containerized with **Docker** for portability and ease 
 5. **Check output**
    - Processed video shall be saved as output_video.mp4
    - Logs saved as log_file.log
+
+## 📊 Example Outputs
+
+Below are sample frames showing how the system works:
+
+- Vehicle **inside ROI but still moving** (timer not started yet):
+  
+  ![Vehicle inside ROI but moving](assets/before_wait_inside_roi.png)
+
+- Vehicle **inside ROI and stopped** (timer running):
+  
+  ![Vehicle inside ROI and stopped](assets/post_wait_inside_roi.png)
