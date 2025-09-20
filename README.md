@@ -96,4 +96,4 @@ Below are sample frames showing how the system works:
 
 - Vehicle **inside ROI and stopped** (timer running):
   
-  ![Vehicle inside ROI and stopped](assets/post_wait_inside_roi.png)
+  ![Vehicle inside ROI and stopped](assets/post_car_stop_inside_roi.png)
